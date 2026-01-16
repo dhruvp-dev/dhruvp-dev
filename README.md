@@ -56,9 +56,9 @@
 
 ## GitHub Analytics
 
-[![Dhruv's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=dhruvp-dev&show_icons=true&theme=transparent&hide_border=true&title_color=45A1FF&icon_color=45A1FF&text_color=ffffff)](https://github.com/dhruvp-dev)
+[![Dhruv's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=dhruvp-dev&show_icons=true&theme=dark&hide_border=true&title_color=45A1FF&icon_color=45A1FF&text_color=ffffff)](https://github.com/dhruvp-dev)
 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhruvp-dev&layout=compact&theme=transparent&hide_border=true&title_color=45A1FF&text_color=ffffff)](https://github.com/dhruvp-dev)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhruvp-dev&layout=compact&theme=dark&hide_border=true&title_color=45A1FF&text_color=ffffff)](https://github.com/dhruvp-dev)
 
 </div>
 
