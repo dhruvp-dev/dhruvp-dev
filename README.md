@@ -53,10 +53,14 @@
 ---
 
 ## GitHub Stats
-
 <div align="center">
 
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvp-dev&show_icons=true&theme=transparent&hide_border=true&title_color=45A1FF&icon_color=45A1FF&text_color=ffffff)
+## GitHub Analytics
+
+![Dhruv's Stats](https://github-readme-stats.vercel.app/api?username=dhruvp-dev&show_icons=true&theme=transparent&hide_border=true&title_color=45A1FF&icon_color=45A1FF&text_color=ffffff)
+
+![Dhruv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvp-dev&theme=transparent&hide_border=true&fire=45A1FF&ring=45A1FF&currStreakLabel=45A1FF)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvp-dev&layout=compact&theme=transparent&hide_border=true&title_color=45A1FF&text_color=ffffff)
 
 </div>
